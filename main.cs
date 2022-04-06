@@ -1,7 +1,7 @@
 // Created by: Kenny Le
 // Created on: Apr 2022
 //
-// This program finds the volume of a pyramid
+// This program finds the volume of a sphere
 
 using System;
 
@@ -9,7 +9,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        // This function calculates the volume of a pyramid
+        // This function calculates the volume of a sphere
         double radiusOfSphere;
         double volume;
 
